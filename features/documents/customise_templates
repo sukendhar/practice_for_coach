@@ -1,0 +1,13 @@
+Feature: Coach customises document Templates
+  In order to create a professional image
+  as a Coach
+  I customise my documents
+
+
+  Scenario: I customise my Proposal document
+
+  Scenario: I customise my Invoice
+
+  Scenario: I customise my Terms & Conditions
+
+  Scenario: I customise my Payment Plan
